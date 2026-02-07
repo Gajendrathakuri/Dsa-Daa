@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "*.asm": "bat",
+        "*.ejs": "html",
+        "ostream": "cpp",
+        "string_view": "cpp",
+        "iostream": "cpp",
+        "list": "cpp",
+        "cstddef": "cpp"
+    }
+}
